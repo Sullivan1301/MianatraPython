@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16356717-b266-4ee0-9054-a8e87df78e44" name="Changes" comment="" />
+    <list default="true" id="16356717-b266-4ee0-9054-a8e87df78e44" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/password.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -260,7 +262,7 @@
       <updated>1713426490018</updated>
       <workItem from="1713426501375" duration="2419000" />
       <workItem from="1713443709016" duration="611000" />
-      <workItem from="1713445101921" duration="3502000" />
+      <workItem from="1713445101921" duration="3906000" />
     </task>
     <servers />
   </component>
@@ -270,7 +272,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonLearning$variable.coverage" NAME="variable Coverage Results" MODIFIED="1713427902068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/pythonLearning$TD1.coverage" NAME="TD1 Coverage Results" MODIFIED="1713447456891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/pythonLearning$condition.coverage" NAME="condition Coverage Results" MODIFIED="1713447964129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/pythonLearning$condition.coverage" NAME="condition Coverage Results" MODIFIED="1713451121375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/pythonLearning$script.coverage" NAME="script Coverage Results" MODIFIED="1713427940767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/pythonLearning$collect.coverage" NAME="collect Coverage Results" MODIFIED="1713446508142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>

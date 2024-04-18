@@ -7,6 +7,8 @@ def main():
         wallet -= sakafo_price
         print("Il te reste {} apres ton repas".format(wallet))
 
+    ternaire = ("Achat effectué", "Achat impossible")[wallet <= sakafo_price]
+    print(ternaire)
 
 if __name__ == "__main__":
     main()

@@ -5,7 +5,7 @@ def main():
         print("Tu n'as pas assez d'argent")
     else:
         wallet -= sakafo_price
-        print("Il te reste " +  str(wallet)+ " apres ton repas")
+        print("Il te reste {} apres ton repas".format(wallet))
 
 
 if __name__ == "__main__":

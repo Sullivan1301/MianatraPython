@@ -1,5 +1,9 @@
 def main():
     rakotoniaina_name = ["Tahina", "Anja", "Sullivan", "Nayah"]
-    print(rakotoniaina_name[len(rakotoniaina_name)-1])
+    print(rakotoniaina_name)
+    rakotoniaina_name[0] = "le pere"
+    print(rakotoniaina_name)
+    rakotoniaina_name.insert(2, "Joro")
+    print(rakotoniaina_name)
 if __name__ == '__main__':
     main()
